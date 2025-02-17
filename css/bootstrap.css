@@ -108,6 +108,7 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+
 @-ms-viewport {
   width: device-width;
 }
@@ -3541,14 +3542,14 @@ tbody.collapse.show {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #868e96;
+  color: #494a4b;
   background-color: transparent;
   border-color: transparent;
 }
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #494a4b;
   background-color: #fff;
   border-color: #ddd #ddd #fff;
 }
@@ -3566,7 +3567,7 @@ tbody.collapse.show {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-color: #494a4b;
 }
 
 .nav-fill .nav-item {
