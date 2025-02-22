@@ -500,7 +500,7 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/fronimg.JPG") no-repeat scroll center 0/cover;
+  background: url("../image/banner_bg.JPG") no-repeat scroll center 0/cover;
   opacity: 0.50;
 }
 
@@ -785,6 +785,8 @@ button:focus {
   max-width: 128px;
 }
 
+
+
 .accomodation_item .hotel_img:hover img {
   -webkit-transform: scale(1.19);
   -ms-transform: scale(1.19);
@@ -819,6 +821,9 @@ button:focus {
 .accomodation_two .accomodation_item {
   margin-bottom: 45px;
 }
+
+
+
 
 /*=========== Start facilities_area css =============*/
 .facilities_area {
